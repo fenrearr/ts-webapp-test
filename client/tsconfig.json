@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    // File Layout - keep commented out for client
+    // File Layout
     // "rootDir": "./src",
     // "outDir": "./dist",
     "baseUrl": "../", 
