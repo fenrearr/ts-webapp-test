@@ -1,4 +1,4 @@
-import type { Item } from "./types";
+import type { Item } from "@shared/types";
 
 const apiBase = "http://localhost:3001/api";
 const resultDiv = document.getElementById("result") as HTMLDivElement;

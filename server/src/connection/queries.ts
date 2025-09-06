@@ -1,4 +1,4 @@
-import type { Item } from "../types/index.js";
+import type { Item } from "@shared/types/index.js";
 
 import { connection } from "./index.js";
 
