@@ -1,10 +1,10 @@
 {
   "compilerOptions": {
     // File Layout
-    "rootDir": "../", // Change to parent directory
+    "rootDir": "../", 
     "outDir": "./dist",
-    "baseUrl": "../", // Add baseUrl
-    "paths": {        // Add path mapping
+    "baseUrl": "../", 
+    "paths": {        
       "@shared/*": ["shared/src/*"]
     },
 
@@ -43,7 +43,7 @@
   },
   "include": [
     "src/**/*",
-    "../shared/src/**/*" // Include shared types
+    "../shared/src/**/*" 
   ],
   "exclude": ["node_modules", "dist"]
 }

@@ -3,8 +3,8 @@
     // File Layout - keep commented out for client
     // "rootDir": "./src",
     // "outDir": "./dist",
-    "baseUrl": "../", // Add baseUrl
-    "paths": {        // Add path mapping
+    "baseUrl": "../", 
+    "paths": {        
       "@shared/*": ["shared/src/*"]
     },
 
@@ -45,7 +45,7 @@
     "src/**/*", 
     "*.ts", 
     "*.tsx",
-    "../shared/src/**/*" // Include shared types
+    "../shared/src/**/*" 
   ],
   "exclude": ["node_modules", "dist"]
 }
